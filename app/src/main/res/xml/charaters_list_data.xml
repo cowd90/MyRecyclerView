@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <data>
+        <item>
+            <image>vietnam_flag</image>
+            <text>Viet Nam</text>
+        </item>
+        <item>
+            <image>laos_flag</image>
+            <text>Laos</text>
+        </item>
+        <item>
+            <image>japan_flag</image>
+            <text>Japan</text>
+        </item>
+        <item>
+            <image>italy_flag</image>
+            <text>Italia</text>
+        </item>
+        <item>
+            <image>germany_flag</image>
+            <text>Germany</text>
+        </item>
+        <item>
+            <image>france_flag</image>
+            <text>France</text>
+        </item>
+        <item>
+            <image>belgium_flag</image>
+            <text>Belgium</text>
+        </item>
+        <item>
+            <image>america_flag</image>
+            <text>America</text>
+        </item>
+        <item>
+            <image>argentina_flag</image>
+            <text>Argentina</text>
+        </item>
+        <item>
+            <image>england_flag</image>
+            <text>England</text>
+        </item>
+        <item>
+            <image>indonesia_flag</image>
+            <text>Indonesia</text>
+        </item>
+        <item>
+            <image>portugal_flag</image>
+            <text>Portugal</text>
+        </item>
+        <item>
+            <image>singapore_flag</image>
+            <text>Singapore</text>
+        </item>
+        <item>
+            <image>thailand_flag</image>
+            <text>Thai Lan</text>
+        </item>
+    </data>
+</resources>
